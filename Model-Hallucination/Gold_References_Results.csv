@@ -1,0 +1,19 @@
+,sentiment,text,BERT
+0,negative,"My flight got delayed, you guys suck, worst airline",negative
+1,negative,"My flight got delayed, this is fxxxing great",negative
+2,negative,"My flight got delayed, somebody is going to get hurt, real bad",negative
+3,negative,"My flight got delayed, really bad service",negative
+4,negative,"My flight got delayed, if I don?t get this fixed, you are fired",negative
+5,negative,"My flight got delayed, you guys better resolve this ASAP",negative
+6,neutral,"My flight got delayed, Need an explanation",negative
+7,neutral,"My flight got delayed, Need an resolution",negative
+8,neutral,"My flight got delayed, I need help",negative
+9,neutral,"My flight got delayed, Need an response",negative
+10,neutral,"My flight got delayed, Need rescheduling",negative
+11,neutral,"My flight got delayed, Need an new ticket",negative
+12,positive,"My flight got delayed, This is fantastic, Hope help will arrive ",negative
+13,positive,"My flight got delayed, there should be a good reason",negative
+14,positive,"My flight got delayed, It is still ok",negative
+15,positive,"My flight got delayed, yet we arrived on time",negative
+16,positive,"My flight got delayed, I'm glad I landed on time",negative
+17,positive,"My flight got delayed, there is a good reason",negative

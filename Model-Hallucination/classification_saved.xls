@@ -1,0 +1,101 @@
+,sentiment,text,BERT,ELECTRA,Vader,DistilBERT,RoBERTa
+0,negative,@united On top of that I paid for 1st class and my wife got stuck in coach.,negative,negative,neutral,negative,negative
+1,negative,@united Ph the pat answers are BS. After I was denied boarding it sat at the gate until 9:05! Your employees totally suck.,negative,negative,neutral,negative,negative
+2,negative,"@United Over the last week, United has provided me with the worst customer service experience of my life. Disgusting. #united",negative,positive,neutral,negative,negative
+3,negative,@united 24 hrs since flight landed and ZERO info on my missing bag? rough ETA would be hugely helpful + restore some confidence,negative,negative,neutral,negative,negative
+4,negative,@united big surprise #nogate waiting for our plane. Same fucken issues everything I fly you. #fail #worstairlineever,negative,negative,neutral,negative,negative
+5,negative,"@united Not to belabor my point,but shouldn't I be able to put a laptop bag above my seat?  Why is it announced to leave it for rollers? Thx",negative,negative,neutral,negative,negative
+6,negative,@united maybemange the airline alittlebetter. Arrived at LAX and no GATE! #howisthatpossible always the same thing w/u,negative,neutral,neutral,negative,negative
+7,negative,@united I just checked my united app and the most valuable use of this app has been removed. I can no longer see the status of my equipment?,negative,negative,neutral,negative,negative
+8,negative,"@united even after running to gate from your connecting flight, your customer service not let us in the plane that was just parked. Stranded",negative,negative,neutral,negative,negative
+9,negative,@united I'm desperately trying to understand how my girlfriend is being treated with this Cancelled Flightled/delayed flight.  #unacceptable #ORD,negative,negative,neutral,negative,negative
+10,negative,"@united Nope, no more chances. Your airline messed up both ways of our trip.",negative,negative,neutral,negative,negative
+11,negative,@united Why announce it is for rollers at all? If I want to put a coat in there isn't that my choice?  How about all gate checked? Thx,negative,negative,neutral,negative,negative
+12,positive,@united you're my early frontrunner for best airline! #oscars2016,positive,positive,positive,positive,negative
+13,negative,"@united  bags left behind because plane overweight, be great if knew as soon as we landed, instead letting us wait 45 minutes with no info.",negative,negative,neutral,negative,negative
+14,negative,@united You are a F&amp;$KING joke. Your customer service is woeful. If your staff tell a passenger that they will do something do it!,negative,negative,neutral,negative,negative
+15,negative,@united was a sponsor of the oscars? No wonder it was a half hour delayed. #Oscars,negative,negative,neutral,negative,negative
+16,positive,@united Worked like a charm. Bag was waiting on the carousel when we got to baggage claim. #welldone #goodflight #friendlysky,positive,negative,neutral,positive,negative
+17,negative,@united will lose my bag but won't give me free pretzels #frauds,negative,negative,negative,negative,negative
+18,negative,"@united you are trying to charge me 150 bucks because you lowered your award tickets and I want to get my hard earn points back, total BS",negative,negative,neutral,negative,negative
+19,negative,@united does asap mean two hours worth of delay and a return to the terminal to count the luggage a third time? #gottogetbetter,negative,negative,neutral,negative,negative
+20,negative,@united Apart from being on hold for over 2 hours and having talked to 5 people and the problem still not resolved!,negative,negative,neutral,negative,negative
+21,negative,"@united typical caned response from UA, fix your crappy performing, last placed/ranked airline in this century!",negative,negative,neutral,negative,negative
+22,negative,@united is it even legal for you guys to advertise flights that you cant honor??,negative,negative,neutral,negative,negative
+23,negative,@united customer service is the WORST. hanging up on customers intentionally after one hour on hold.,negative,negative,neutral,negative,negative
+24,negative,@united was forced  to book a flight on a different date than originally planned for a higher price $1130 felt like a bait and switch tactic,negative,negative,neutral,negative,negative
+25,negative,"@united love how you don't give a shit about people who tried to be loyal, but you screw them every way till Sunday. Glad I've stayed away",negative,negative,neutral,negative,negative
+26,negative,"@united tried a different flight IAH-MNL 4/1/15-4/17/15, 6 flights are advertised for $1038 but are not bookable (due to partner error).",negative,negative,neutral,negative,negative
+27,negative,@united it will be on a different airline.,negative,negative,neutral,positive,negative
+28,negative,@united and was told that its been the case for weeks but is still not resolved.,negative,negative,neutral,negative,negative
+29,negative,"@united clicked ""upgrade now"" and it didn't upgrade. What gives? http://t.co/N7oSjz8a59",negative,neutral,neutral,negative,negative
+30,negative,@united you advertise the flight and its still on you website and still can't be book. spent over 2 hours with united support,negative,negative,neutral,negative,negative
+31,negative,@united tried to book a flight IAH-MNL departing 3/31/15 returning 4/17/15 you are advertising 9 flights for $1051 that can't be book!,negative,negative,neutral,negative,negative
+32,neutral,@united I just booked a flight for (2). When I view my reservation it has MI connected to First name. Is this a problem? can it be changed?,negative,negative,neutral,negative,negative
+33,negative,@united quick (serious) question - any resources/ratings showing the quality of service is better than 8th place? http://t.co/deWIthPeW2,negative,neutral,neutral,negative,negative
+34,neutral,@united How do I get through @TSA to finally board UA 1534?,neutral,negative,neutral,negative,negative
+35,negative,"@united yes I have and I was calling in regards to speaking to someone about it even further, but unfortunately i was just bounced around.",negative,negative,neutral,negative,negative
+36,negative,@united Flight 472 from ORD couldn't let me know about this? Found out via app minutes before landing. Awful flight. http://t.co/DQJl8vZ2h2,negative,negative,neutral,negative,negative
+37,negative,@united i need help but in spanish,negative,negative,neutral,negative,negative
+38,negative,"@united A very disappointing experience - plane mech. delay and next one didn't wait. No sincere apology, just told me to complain online",negative,negative,neutral,negative,negative
+39,negative,@united I lost my sunglasses on the flight from OKC to IAH this morning (8am takeoff) .. is there any way to retrieve them?,negative,negative,neutral,negative,negative
+40,neutral,@united @reccewife with the exception of everything you've asked for. Heh,neutral,negative,neutral,negative,negative
+41,negative,@united UA1731 - Denver to Austin...  Still on the ground...,negative,negative,neutral,positive,negative
+42,negative,@united either your staff or whoever you contract with at PVD is failing you big time tonight...,negative,negative,neutral,negative,negative
+43,neutral,@united UA1469. Just landed.,neutral,negative,neutral,negative,negative
+44,negative,@united considering it. Currently gold on @delta. Why should I make the jump for an upcoming flight from SFO to Singapore?,negative,negative,neutral,positive,negative
+45,neutral,@united flight 435,neutral,neutral,positive,positive,negative
+46,negative,"@united worst flights I've ever had. ground crew ignored our plane, made me miss flight and now I have to cover the cost of a hotel. #DEN",negative,negative,neutral,negative,negative
+47,negative,@united customers aren't dumb. These revenue based programs will hurt everyone. Not gonna save money like you think,negative,negative,neutral,negative,negative
+48,negative,@united it was me who had the problem won flight ua 1580. I called and rebooked myself found my own hotel and taxi,negative,negative,neutral,negative,negative
+49,positive,@united will do. Thanks for the help. Cheers,positive,positive,positive,positive,negative
+50,negative,"@united bull crap.  I spent $600 on a recent trip.  That's not small change. I got 10,000 AA miles.  Would have only been 6600 UA",negative,negative,neutral,negative,negative
+51,negative,@united yes I did. Terrible service from your courrier,negative,positive,neutral,negative,negative
+52,negative,@united compensate us for new clothes bet you won't,negative,negative,neutral,negative,negative
+53,positive,@united I have 8 flights with you in the next two weeks :) let's make some good memories!,positive,negative,neutral,positive,negative
+54,negative,"@united, we're stuck at OGG, looks like flight will be Cancelled Flightled. Can you help? =)",negative,negative,positive,negative,negative
+55,negative,@united yea they been booked on 10 next avalible flights since sat 7am. And when time comes no plane 2nd day of work missed #hotelliving,negative,negative,neutral,negative,negative
+56,negative,@united currently crying... I wanted to ski tomorrow but prolly not. Just a boy tryna fulfill his dreams,negative,negative,neutral,negative,negative
+57,negative,"@united I tried the online tracking and they said something like ""attempting to locate luggage""",negative,negative,neutral,negative,negative
+58,negative,@united your worker told us not to call because we'd be talking to someone in Thailand...,negative,negative,neutral,negative,negative
+59,negative,@united - Going on 3 days (tomorrow) and I still haven't received my bag from my flight to Toronto. Would love to see some seriousness here.,negative,negative,neutral,positive,negative
+60,negative,@united is there nothing you can do for me? No compensation at all? Given the circumstances I feel like there must be something you can do,negative,negative,neutral,negative,negative
+61,negative,@united there is a disconnect between your PR group and the actual business strategy and employee attitude on the ground.  #liars #united,negative,negative,neutral,negative,negative
+62,negative,@united here we go again. 2 of 3 segments SFO--New York RT were delayed OVER 2 hrs each! Why do you suck so BAD!?!Maybe another line of bus?,negative,negative,neutral,negative,negative
+63,negative,@united you really screwed up dealing mechanical failure from Maui to San Francisco. Poor communication bad help in getting connections,negative,negative,neutral,negative,negative
+64,negative,"@united if you don't like delayed bags, why do you let it happen so much?",negative,negative,neutral,negative,negative
+65,negative,@united the delay is due to customer service for 20 people?  What about the DIS-SERVICE you provided for 100+?  #FlightFail #Hour20Delay,negative,negative,neutral,negative,negative
+66,positive,@united he is so excellent and so reliable :) #happycustomer,positive,positive,positive,positive,negative
+67,negative,@united but again UNITED DOESNT GIVE 2 SHITS ABOUT THEIR CUSTOMERS,negative,positive,positive,negative,negative
+68,negative,@united its funny how none of ur tweets back are helpful what I want is to read 'ya we'll change that so our customers get better service',negative,negative,neutral,negative,negative
+69,neutral,@united She is travelling from Melbourne (Australia ) to Bogota (Colombia) tomorrow,neutral,negative,neutral,positive,negative
+70,neutral,@united Hi.  My relative's Flight Booking Problems number is MY8YB4.  Her name is Clarita Jaramillo Mejia.  Thank you,neutral,negative,neutral,positive,negative
+71,positive,@united it was delivered! Thank you for making sure it arrived at my doorstep!,positive,negative,neutral,positive,negative
+72,negative,"@united really needs to get its act together. Really disappointed in our change of flight, delayed flights, etc.",negative,negative,neutral,negative,negative
+73,negative,"@united-rebooked to OMA - 180 miles from my destination. Spotty customer service. I get staff stressors but come on, this is your business.",negative,negative,neutral,negative,negative
+74,neutral,@united Why have airlines always told us they can't open a cabin door once it has been closed?  This plane has done it 3 times tonight.,negative,negative,neutral,negative,negative
+75,positive,â€œ@united: Looking for a reason to travel? #quote http://t.co/GGuIg3t28zâ€,negative,neutral,neutral,negative,negative
+76,negative,@united I can't find any Late Flight evening flights. Are there other airports that would have an overnight flight?,negative,negative,neutral,negative,negative
+77,negative,@united Thanks for the vague canned response that doesn't address the issue!,negative,positive,neutral,negative,negative
+78,positive,@united thank you!,positive,positive,positive,positive,negative
+79,negative,@united that's not good enough for all of us affected by the awful organization and timing and have now been set back,negative,negative,neutral,negative,negative
+80,negative,@united  Otis in the baggage claim by Bay #8. not at all happy but not nearly as pissed.,negative,negative,neutral,negative,negative
+81,negative,@united Why is my time less important to you?  #StrandUsInDenver #HourAndTenMinuteDelay #FlightFail,negative,neutral,neutral,negative,negative
+82,negative,@united airlines: you kidding? Bagage lost this morning from ny to Washington and still no trace? #badservice,negative,negative,neutral,negative,negative
+83,negative,@united I did. It took about an hour and a half though,negative,negative,neutral,negative,negative
+84,negative,@united Why have you never held a plane for me? #HourDelay #MultipleDoorOpeningAndClosing #DangerOfGettingSnowedIn,negative,neutral,neutral,negative,negative
+85,negative,@united i did but i got nothing from it. Just dissapointment =(,negative,negative,neutral,negative,negative
+86,negative,@united WHERE IS MY FUCKING BAG?!?! Where the fuck is my fucking bag??? TELL ME NOW OR GIVE ME A NUMBER TO CALL A HUMAN. SAN68059M,negative,negative,neutral,negative,negative
+87,positive,@united I was sincerely thanking the pilot of flight 4461 of braving the snow and getting me home amongst many other Cancelled Flightlations.,positive,negative,neutral,positive,negative
+88,negative,@united Made@it to the gate at 8:23 and they wouldn't let us on. http://t.co/xAToxBnsFa,negative,negative,neutral,positive,negative
+89,negative,@united time to give up my 1K status and switch to @Delta - you are so terrible I can't even describe.,negative,negative,neutral,negative,negative
+90,positive,"@united Thanks! LOL! #UA6259 will wait for us. Per @flightaware, same tail number as #UA5525 :)",positive,positive,positive,positive,negative
+91,negative,@united You suck. Flight delayed equipment probs again. Miss connection by 2 minutes and you won't let us on even though it's at the gate.,negative,negative,neutral,negative,negative
+92,negative,@United #1758 now going in 40 min waiting for other plane to vacate gate. #findanothergate,negative,negative,neutral,negative,negative
+93,negative,@united Flight 2 is 2:30 hrs delayed so far b/c of Late Flight crew. Now we are literally waiting while they have dinner acc. to honest gate agent.,negative,negative,neutral,positive,negative
+94,negative,@United many people on Ua6318 are going to miss connections due to long wait time in SFO tarmac. Seriously u can't find an empty gate?,negative,negative,neutral,negative,negative
+95,negative,@united You're trying to solve problem of your own making. Charging for checked luggage forces checking at gate. Brilliant.,negative,negative,neutral,positive,negative
+96,negative,@united we've been waiting 45 min for a gate at SFO... Yet so many of them are free.  Your excellence in operational efficiency is showing,negative,negative,neutral,positive,negative
+97,negative,"@United ""delayed due to customer service"" Huh? http://t.co/XlTV5z6sT1",negative,neutral,neutral,negative,negative
+98,negative,@united what about the poor customer service at checkin at Kansas KCI?!? That's it???,negative,negative,neutral,negative,negative
+99,negative,@united except all of that delayed the flight anyway.,negative,negative,neutral,negative,negative
